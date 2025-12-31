@@ -1,6 +1,6 @@
 'use client';
 import { motion } from 'framer-motion';
-import { Globe, ArrowRight, Check, Zap, Shield, Users, Globe } from 'lucide-react';
+import {Globe, ArrowRight, Check, Zap, Shield, Users} from 'lucide-react';
 
 export default function Page() {
   return (
